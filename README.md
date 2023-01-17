@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+You can reach me at:
 [<img alt="LinkedIn" width="25px" src="assets/linkedin.svg">](https://www.linkedin.com/in/matiasgays/) &nbsp;
