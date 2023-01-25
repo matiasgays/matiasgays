@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am a graduate of Electronics Engineering from National University of La Plata, Argentina with a strong background in programming and IT technologies. I am proficient in C and JavaScript programming and have a working knowledge of SCADA systems, PLC projects and communication protocols such as TCP/IP, UDP, RS232, RS485, MODBUS, SPI, UART, USB, SPI, Ethernet. I have a passion for IT technologies, and I am also actively pursuing learning opportunities in DevOps and Software Development.
+I am a graduate of Electronics Engineering from National University of La Plata, Argentina with a strong background in programming and IT technologies. I am proficient in C and JavaScript programming and have a working knowledge of SCADA systems, PLC projects and communication protocols such as MODBUS, UART, SPI, Ethernet. I have a passion for IT technologies, and I am also actively pursuing learning opportunities in DevOps and Software Development.
 
 ### Tech
 
@@ -27,4 +27,4 @@ I am a graduate of Electronics Engineering from National University of La Plata,
 </p>
 
 -----
-Last Edited on: 24/01/2023
+Last Edited on: 25/01/2023
