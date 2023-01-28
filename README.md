@@ -1,7 +1,5 @@
 ## Hi there, I am Matias Gays!
 
-https://user-images.githubusercontent.com/66641926/215287518-69798a6c-f008-4d48-bf3f-6bb431897b16.mp4
-
 ### About Me
 
 I am a graduate of Electronics Engineering from National University of La Plata, Argentina with a strong background in programming and IT technologies. I am proficient in C and JavaScript programming and have a working knowledge of SCADA systems, PLC projects and communication protocols such as MODBUS, UART, SPI, Ethernet. I have a passion for IT technologies, and I am also actively pursuing learning opportunities in DevOps and Software Development.
