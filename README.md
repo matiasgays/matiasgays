@@ -1,4 +1,6 @@
-## Hi there, I am Matias Gays!
+<div align="center">
+  <img width="500" src="https://user-images.githubusercontent.com/66641926/215288932-da7c52f5-e5c4-439c-abc6-329fb2c66765.gif" />
+</div>
 
 ### About Me
 
@@ -27,4 +29,4 @@ I am a graduate of Electronics Engineering from National University of La Plata,
 </p>
 
 -----
-Last Edited on: 25/01/2023
+Last Edited on: 28/01/2023
